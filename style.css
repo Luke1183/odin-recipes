@@ -20,6 +20,10 @@ h1 {
     margin: 30px;
 }
 
+h1 {
+    height: 114px;
+}
+
 .card {
     background-color: bisque;
     border: solid black 2px;
